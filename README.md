@@ -7,7 +7,7 @@
 
 💡 &nbsp; I'm a Full Stack software developer and content creator, working on making full stack applications using MERN stack. \
 💻 &nbsp;I'm currenty making websites and making contetn on my Twitter handle.\
-🎓&nbsp;I graduated form BM Institute of Engg and Technology (B.Tech, Computer Science and Engineering, Batch of 2021) CGPA- 9.09.\
+🎓&nbsp;I graduated from BM Institute of Engg and Technology (B.Tech, Computer Science and Engineering, Batch of 2021) CGPA- 9.09.\
 🌱 &nbsp;I'm on track for learning more about Cloud Technologies.\
 ✍️ &nbsp;In my free time, I listen to songs and love to watch Sci-Fi movies.\
 💬 &nbsp;Feel free to reach out to me for any Opportunity related to DevRel, Content Creation or any above mentioned skill!\
