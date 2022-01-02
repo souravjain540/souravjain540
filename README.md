@@ -5,13 +5,11 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a Full Stack software developer and content creator, working on making full stack applications using MERN stack. \
-💻 &nbsp;I'm currenty making websites and making contetn on my Twitter handle.\
+💡 &nbsp; I am working as a Community Manager at Amplication . \
+💻 &nbsp;I'm currenty making websites and making content on my Twitter handle.\
 🎓&nbsp;I graduated from BM Institute of Engg and Technology (B.Tech, Computer Science and Engineering, Batch of 2021) CGPA- 9.09.\
 🌱 &nbsp;I'm on track for learning more about Cloud Technologies.\
 ✍️ &nbsp;In my free time, I listen to songs and love to watch Sci-Fi movies.\
-💬 &nbsp;Feel free to reach out to me for any Opportunity related to DevRel, Content Creation or any above mentioned skill!\
-✉️ &nbsp;You can email me at souravjain540@gmail.com. I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Twitter](https://twitter.com/Sauain) for more details about me.
 
 
