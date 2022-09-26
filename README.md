@@ -1,17 +1,31 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
-![version :02.01.2022](https://img.shields.io/badge/version-02.01.2022-informational) &nbsp;
+![version :26.09.2022](https://img.shields.io/badge/version-26.09.2022-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=souravjain540&color=red)&nbsp;
 [![GitHub souravjain540](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I am working as a Community Manager at Amplication . \
-💻 &nbsp;I'm currenty making websites and making content on my Twitter handle.\
-🎓&nbsp;I graduated from BM Institute of Engg and Technology (B.Tech, Computer Science and Engineering, Batch of 2021) CGPA- 9.09.\
-🌱 &nbsp;I'm on track for learning more about Cloud Technologies.\
-✍️ &nbsp;In my free time, I listen to songs and love to watch Sci-Fi movies.\
-📄 &nbsp;You can check my [Twitter](https://twitter.com/Sauain) for more details about me.
+- I am from Delhi, India.
+- I am working as a Community Manager at Amplication from nearly an year. 
+- I work for open source communities, open source evangelist and a technical content writer.
+- My content focused on Python, Open Source, GitHub on Twitter is read by over 6 Million developers every month.
+- I have a community of over 36000 developers on Twitter.
+- I helped in expanding the open source community of Amplication to over 15K developers.
 
+- I have worked on number of campaigns which helps 100s of new developers to get onboard to the world of open source. Few examples:
+  - [Ten Issues for First Timers](https://github.com/amplication/amplication/issues/2435)
+  - [Dozen Issues for First Timers](https://github.com/amplication/amplication/issues/2737)
+  - [Twenty Issues for First Timers](https://github.com/amplication/amplication/issues/3481)
+
+- I write and promote things about GitHub on my Twitter as well which is read by millions of developers. Few Examples:
+  - [Best Python GitHub Repositories](https://twitter.com/Sauain/status/1554751183826391040?s=20&t=U26OKd9G2KKj9E5wa9D26g)
+  - [Courses to learn Git and GitHub](https://twitter.com/Sauain/status/1513849485260173320?s=20&t=U26OKd9G2KKj9E5wa9D26g)
+  - [Five projects on Github for various technologies](https://twitter.com/Sauain/status/1492732759533514753?s=20&t=U26OKd9G2KKj9E5wa9D26g)
+  - [Find more of my writings around GitHub](https://twitter.com/search?q=%40sauain%20Github&src=typed_query&f=top)
+
+- I have also worked on internal triage and issue management processes in Amplication to use GitHub(Mostly the GitHub projects feature and the board view) in best way to handle communtiy issues.
+
+- I am also the maintainer to handle all the community issues in [Amplication GitHub repository](https://github.com/amplication/amplication).
 
 ### 🛠 &nbsp;Tech Stack
 
