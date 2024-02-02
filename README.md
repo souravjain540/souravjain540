@@ -25,7 +25,7 @@
 
 - I have also worked on internal triage and issue management processes in Amplication to use GitHub(Mostly the GitHub projects feature and the board view) in best way to handle communtiy issues.
 
-- I am also the maintainer to handle all the community issues in [Amplication GitHub repository](https://github.com/amplication/amplication).
+- I was also the maintainer to handle all the community issues in [Amplication GitHub repository](https://github.com/amplication/amplication).
 
 ### 🛠 &nbsp;Tech Stack
 
