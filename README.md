@@ -6,11 +6,11 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - I am from Delhi, India.
-- I am working as a Community Manager at [Amplication](https://github.com/amplication/amplication) from nearly an year. 
+- I worked as a Community Manager at [Amplication](https://github.com/amplication/amplication) for more than two years. 
 - I work for open source communities, open source evangelist and a technical content writer.
 - My content focused on Python, Open Source, GitHub on Twitter is read by over 6 Million developers every month.
 - I have a community of over 36000 developers on Twitter.
-- I helped in expanding the open source community of Amplication to over 15K developers.
+- I helped in expanding the open source community of Amplication to over 40K developers.
 
 - I have worked on number of campaigns which helps 100s of new developers to get onboard to the world of open source. Few examples:
   - [Ten Issues for First Timers](https://github.com/amplication/amplication/issues/2435)
