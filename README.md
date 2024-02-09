@@ -6,8 +6,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - I am from Delhi, India.
+- I am currently working as a Developer Community Manager at [Apify](https://github.com/apify) where my primary responsibilities are to improve, build, and scale the developer community of Apify through various developer relations initiatives, making [Crawlee](https://crawlee.dev) the number one web scraping and automation open source library and handling the developer relations initiatives in the organization.
 - I worked as a Community Manager at [Amplication](https://github.com/amplication/amplication) for more than two years. 
-- I work for open source communities, open source evangelist and a technical content writer.
+- I work for open source communities, am an open source evangelist, and a technical content writer.
 - My content focused on Python, Open Source, GitHub on Twitter is read by over 6 Million developers every month.
 - I have a community of over 36000 developers on Twitter.
 - I helped in expanding the open source community of Amplication to over 40K developers.
